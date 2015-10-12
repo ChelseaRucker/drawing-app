@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ChelseaBurns/drawing-app/issues"
   },
-  "homepage": "https://github.com/ChelseaBurns/drawing-app#readme"
+  "homepage": "https://github.com/ChelseaBurns/drawing-app#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
 }
