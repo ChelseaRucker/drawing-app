@@ -1,0 +1,19 @@
+{
+  "name": "drawing-app",
+  "version": "1.0.0",
+  "description": "This is a simple drawing application built with jQuery.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChelseaBurns/drawing-app.git"
+  },
+  "author": "Chelsea Burns <co.designux@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChelseaBurns/drawing-app/issues"
+  },
+  "homepage": "https://github.com/ChelseaBurns/drawing-app#readme"
+}
