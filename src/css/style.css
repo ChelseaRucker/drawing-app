@@ -1,6 +1,19 @@
 body {
-	background: #384047;
+	background:tan;
 	font-family: sans-serif;
+}
+
+h1 {
+	text-shadow: 2px 2px #C78E01;
+	text-align:center;
+	color: white;
+	font-family:Helvetica;
+	font-weight: 100;
+}
+sup {
+	text-shadow: 2px 2px #E1C900;
+	color:magenta;
+	font-family: cursive;
 }
 canvas {
 	background: #fff;
