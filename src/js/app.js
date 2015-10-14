@@ -8,7 +8,7 @@ $(".controls li").click(function() {
   //Deselect sibling elements
   $(this).siblings().removeClass("selected");
   //Select clicked element
-  $(this).siblings().addClass("selected");
+  $(this).addClass("selected");
   //cache current color
   color = $(this).css("background-color");
 });
