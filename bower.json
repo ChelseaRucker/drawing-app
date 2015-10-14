@@ -1,0 +1,17 @@
+{
+  "name": "drawing-app",
+  "version": "1.0.0",
+  "homepage": "https://github.com/ChelseaBurns/drawing-app",
+  "authors": [
+    "ChelseaBurns <co.designux@gmail.com>"
+  ],
+  "main": "app.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
