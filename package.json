@@ -2,7 +2,7 @@
   "name": "drawing-app",
   "version": "1.0.0",
   "description": "This is a simple drawing application built with jQuery.",
-  "main": "app.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
